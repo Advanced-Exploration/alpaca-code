@@ -74,6 +74,6 @@ If you click on download, you will see a white page for aprox. 5 seconds, then t
 
 2. Upload
 
-If you click on Upload, the browser will navigate to the attack page and than, after 5 seconds redirect to target.com.
+If you click on Upload, the browser will navigate to the attack page and then, after 5 seconds, redirect to target.com.
 In the second console windows with the logs you can now also see the uploaded GET request of the browser including the cookie.
  
