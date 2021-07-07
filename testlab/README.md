@@ -3,7 +3,7 @@
 Currenty only the attacks on vsftp works in the lab as the provided email servers in the docker images are the latest version and alpaca is already fixed there.
 We are currently working on adding the old server versions to the repository.
 
-All code provided is experimental and may harm your system. Please use a fresh ubuntu maschine.
+All code provided is experimental and may harm your system. Please use a fresh ubuntu machine.
 
 ## Setup
 
